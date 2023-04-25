@@ -1,0 +1,28 @@
+Fontos közlendő a játékosokkal:
+
+Miért jó ez a játékosoknak?
+Bizonyított, hogy a nézők annál jobban megjegyeznek valakit, minél többet látják. És annál szorosabb néző/rajongó - játékos kapocs alakul bennük ki minél több helyzetben látnak valakit és hogy azokra hogyan reagál. Óriásit hozzáad a nézői élményhez, hogy valós időben látja a kedvencét örülni egy clucth után pl.
+Minél érdekesebb valaki a streamben, minél többet látják, szerepel, annál könnyebben szerez követőket, és annál könnyebben tudja építeni a saját brandjét.
+
+A kapcsolódáshoz nem szükséges semmilyen programot letölteni és lehetséges telefonról is, ha valakinek nincs webkamerája.
+
+A képmegosztást csak a produkciós stáb látja, illetve a streamen -késéssel- a nézők. Más játékos semmilyen körülmények között nem látja sem csapattársait sem ellenfeleit így semmilyen előnyhöz nem juthat más abból, ha valaki megosztja a kameráját.
+
+A játékosok senkivel se osszák meg a csatlakozási linket amit kapnak, még csapattársakkal és barátokkal sem a következő okok miatt:
+Amit a feeden kapunk tőlük az az ő felelősségük, és oda nem illő viselkedés (pl középsőujj mutatása, háttérben meztelen csaj poszter, stb.)  esetén minden következmény őket terheli.
+
+A csatlakozási link egy korlátlan felhasználású link, őrizzék meg a szezon egészére! (Ki tudja, lehet jövőre is használjuk, vagy más projektekben.)
+
+A csatlakozás lehetséges a legtöbb böngészőből, beleértve TELEFONON a Safarit és a Chrome-ot is. 
+
+A képmegosztás elenyésző terhelés a számítógépre (nem több, mint ha egy messenger tab van megnyitva), de valaki mégis fps dropot észlel miatta játékon belül, akkor kapcsolja ki böngészőjében a hardveres gyorsítást (újra kell indítani a böngészőt, csak akkor lép életbe) vagy váltson telefonra.
+
+Amikor a játékosok a linket megnyitják, válasszák ki a kamerát (lehet külön engedélyezni kell a böngészőben előbb felül), majd nyomjanak a START gombra. Ettől a pillanattól a stream producer és az observer is látja a kameraképet. Mindegy milyen beállításokat választanak a játékosok audio kapcsán, semmilyen körülmények között nem megy ki az adásba. 
+
+Ha az alapértelmezett beállítások használata során valaki nem elégedett a kameraképével, akkor a START gomb nyomása után, alul a fogaskerékre kattintva lehetősége van szabályozni fényerőt, fehéregyensúlyt és sok más dolgot.
+
+Amennyiben valaki telefonról kapcsolódik, győzödjön meg róla, hogy a telefon (és vele együtt a video feed is) fekvő tájolású.
+
+Lehetőség szerint a feed 16:9 képarányú legyen, de legalább 4:3. (Ha valakinek a webkamerája nem tud 16:9 vagy 4:3 képarányt -szinte kizárt- akkor újfent a telefonra váltás ajánlott.
+
+Aki telefonról csatlakozik lehetőség szerint intézze úgy, hogy az előtte álló meccset kibírja az aksi, vagy a képmegosztás ideje alatt kösse hálózati áramforrásra a készülékét.
